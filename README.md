@@ -1,5 +1,18 @@
 # Treinamento de PL/SQL
 
+- Oracle Express Database (Acessos):
+
+    Login: SYS, SYSTEM ou PBADMIN
+    Senha: testes123
+    Banco: SYS, SYSTEM ou PBADMIN
+
+- Oracle Express Database (URLs):
+
+    Banco de dados contêiner multitenant: localhost:1521
+
+    Banco de dados plugável: localhost:1521/XEPDB1
+
+    URL do EM Express: https://localhost:5500/em
 
 ## Lista
 
