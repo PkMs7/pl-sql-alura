@@ -3,7 +3,9 @@
 - Oracle Express Database (Acessos):
 
     Login: SYS, SYSTEM ou PBADMIN
+
     Senha: testes123
+    
     Banco: SYS, SYSTEM ou PBADMIN
 
 - Oracle Express Database (URLs):
