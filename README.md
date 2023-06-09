@@ -18,9 +18,9 @@
 
 ## Lista
 
-- Configuração de mbiente de desenvolvimento: <a href="https://github.com/PkMs7/pl-sql-alura/tree/main/env">env</a>
+- Configuração de ambiente de desenvolvimento: <a href="https://github.com/PkMs7/pl-sql-alura/tree/main/env">env</a>
 
-- Item 2
+- Códigos do Módulo 1 - SQL com Oracle Database: <a href="https://github.com/PkMs7/pl-sql-alura/tree/main/code/moduloSQLComOracle">codigos</a>
 
 - Item 3
 
