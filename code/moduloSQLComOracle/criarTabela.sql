@@ -37,3 +37,7 @@ CREATE TABLE TB_PRODUTOS (
     PRECO_LISTA NUMBER
 
 );
+
+-- Definir Chaves
+
+    -- Informações no arquivo alterarTabela.sql
