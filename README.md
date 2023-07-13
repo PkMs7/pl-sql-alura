@@ -4,7 +4,7 @@
 
     Login: SYS, SYSTEM ou PBADMIN
 
-    Senha: testes123
+    Senha: teste123
     
     Banco: SYS, SYSTEM ou PBADMIN
 
